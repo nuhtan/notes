@@ -1,5 +1,7 @@
-# notes
+# Notes
 This repo will contain all of my notes going forward.
+
+[ToDo List](TODO.md)
 
 SS 2021:
 - [CHM 111](chm111/index.md)
