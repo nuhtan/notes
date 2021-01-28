@@ -2,7 +2,7 @@
 ### Full Title: Comparative Programming Languages
 ### Professor: Dr. John Femiani
 
-Notes:
+#### Notes:
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |

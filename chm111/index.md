@@ -2,7 +2,7 @@
 ### Full Title: Chemistry in Modern Society
 ### Professor: Dr. Carole Dabney-Smith
 
-Notes:
+#### Notes:
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |

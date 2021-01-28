@@ -2,7 +2,7 @@
 ### Full Title: Machine Learning
 ### Professor: Dr. Philippe Giabbanelli
 
-Notes:
+#### Notes:
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |

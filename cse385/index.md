@@ -2,7 +2,7 @@
 ### Full Title: Database Systems
 ### Professor: Dr. Jason Rech
 
-Notes:
+#### Notes:
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |

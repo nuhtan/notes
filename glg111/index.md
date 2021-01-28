@@ -6,4 +6,4 @@ Notes:
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |
-| [2020.01.26](2020.01.26.md) | Introduction & Pure Substances | Async |
+| [2020.01.26](2020.01.26.md) | Not Sure | Async |
