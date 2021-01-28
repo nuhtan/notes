@@ -1,6 +1,6 @@
 | Date Due | Class | Assignment |
 | -------- | ----- | ---------- |
-| 2021.01.28 | CSE 385 | Lab 01 (Table Population) |
+| ~~2021.01.28~~ | ~~CSE 385~~ | ~~Lab 01 (Table Population)~~ |
 | 2021.01.28 | CSE 465 | Introduce yourself on Piazza |
 | 2021.01.29 | CHM 111 | Module 1-2 |
 | 2021.01.30 | GLG 111 | Reading Quiz Ch. 1 |
