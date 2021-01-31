@@ -6,4 +6,4 @@
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |
-| [2020.01.28](2020.01.28.md) | Introduction | None |
+| [2020.01.30](2020.01.30.md) | Introduction | None |
