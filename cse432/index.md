@@ -6,5 +6,5 @@
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |
-| [2020.01.25](2020.01.25.md) | Introduction | None |
-| [2020.01.27](2020.01.27.md) | Installing Python/Jupyter | None |
+| [2021.01.25](2021.01.25.md) | Introduction | None |
+| [2021.01.27](2021.01.27.md) | Installing Python/Jupyter | None |

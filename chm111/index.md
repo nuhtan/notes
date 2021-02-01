@@ -6,5 +6,5 @@
 
 |    Date    | Topic(s) | Other Notes |
 | ---------- | -------- | ----- |
-| [2020.01.26](2020.01.26.md) | Introduction & Pure Substances | Need to rewrite and watch video |
-| [2020.01.28](2020.01.28.md) | Mixtures | None |
+| [2021.01.26](2021.01.26.md) | Introduction & Pure Substances | Need to rewrite and watch video |
+| [2021.01.28](2021.01.28.md) | Mixtures | None |
