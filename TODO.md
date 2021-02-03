@@ -6,9 +6,9 @@
 | ~~2021.01.30~~ | ~~GLG 111~~ | ~~Reading Quiz Ch. 1~~ |
 | ~~2021.01.30~~ | ~~GLG 111~~ | ~~Reading Quiz Ch. 2a~~ |
 | ~~2021.01.31~~ | ~~CHM 111~~ | ~~Assignment 2~~ |
-| 2021.02.01 | GLG 111 | Reading Quiz Ch. 2b |
+| ~~2021.02.01~~ | ~~GLG 111~~ | ~~Reading Quiz Ch. 2b~~ |
 | ~~2021.02.01~~ | ~~CSE 432~~ | ~~Assignment 1~~ |
-| 2021.02.01 | GEO 201 | European Plans for the New World |
+| ~~2021.02.01~~ | ~~GEO 201~~ | ~~European Plans for the New World~~ |
 | ~~2021.02.02~~ | ~~CSE 465~~ | ~~Lab 0~~ |
 | 2021.02.03 | CSE 465 | Read Chapter 1 |
 | 2021.02.03 | CSE 465 | Read Chapter 15 |
