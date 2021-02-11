@@ -10,9 +10,9 @@
 | ~~2021.02.01~~ | ~~CSE 432~~ | ~~Assignment 1~~ |
 | ~~2021.02.01~~ | ~~GEO 201~~ | ~~European Plans for the New World~~ |
 | ~~2021.02.02~~ | ~~CSE 465~~ | ~~Lab 0~~ |
-| 2021.02.03 | CSE 465 | Read Chapter 1 |
-| 2021.02.03 | CSE 465 | Read Chapter 15 |
-| 2021.02.03 | GEO 201 | New Jerusalem's in America |
+| ~~2021.02.03~~ | ~~CSE 465~~ | ~~Read Chapter 1~~ |
+| ~~2021.02.03~~ | ~~CSE 465~~ | ~~Read Chapter 15~~ |
+| ~~2021.02.03~~ | ~~GEO 201~~ | ~~New Jerusalem's in America~~ |
 | 2021.02.05 | CHM 111 | Module 1-3 |
 | 2021.02.07 | CHM 111 | Assignment 3 |
 | 2021.02.08 | GEO 201 | The Mercantile City |
